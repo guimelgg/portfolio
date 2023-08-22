@@ -422,6 +422,8 @@ Explore how you can use Copilot to help you:
 >
 > <img src="https://user-images.githubusercontent.com/82035/196431310-806a36ca-f122-4739-83f6-79afa1543e7c.png" alt="Web application started on port 1234" style="width: 800px;"/>
 
+## Mis Notas
+
 <br />
 
 ## 🔎 Found an issue or have an idea for improvement? 
